@@ -11,8 +11,13 @@
   <a href="https://scuderia-segfault.github.io/website/research.html">Research</a> ·
   <a href="https://scuderia-segfault.github.io/website/blog/index.html">Lab Notes</a> ·
   <a href="https://scuderia-segfault.github.io/website/members.html">Team</a> ·
-  <a href="https://scuderia-segfault.github.io/website/sponsors.html">Sponsorship</a> ·
-  <a href="https://at.linkedin.com/company/scuderia-segfault">LinkedIn</a>
+  <a href="https://scuderia-segfault.github.io/website/sponsors.html">Sponsorship</a>
+</p>
+<p align="center">
+  <a href="https://at.linkedin.com/company/scuderia-segfault">LinkedIn</a> ·
+  <a href="https://www.tuwien.at/inf/scuderia-segfault/">TU Wien</a> ·
+  <a href="https://www.instagram.com/scuderiasegfault/">Instagram</a> ·
+  <a href="https://www.youtube.com/@cps-tuwien9092">YouTube (CPS TU Wien)</a>
 </p>
 
 ## What we build
