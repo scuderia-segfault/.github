@@ -30,13 +30,16 @@ We are the autonomous racing team at TU Wien. We develop and race small-scale au
 | **RoboRacer Arena** | Track generation and autonomous racing experiments in Isaac Sim. [Project page](https://scuderia-segfault.github.io/website/projects/roboracer-arena.html) · [Preprint](https://arxiv.org/abs/2608.23040) |
 | **AIDA** | Research on distributed autonomy and vehicle coordination. [Project page](https://scuderia-segfault.github.io/website/projects/aida.html) |
 
-## Race wins
+## Racing podiums
 
-| Year | Grand Prix | Winner |
-| --- | --- | --- |
-| 2024 | [22nd RoboRacer Autonomous Grand Prix, CDC, Milan](https://www.tuwien.at/inf/scuderia-segfault/news-detail/victory-at-roboracer-autonomous-grand-prix-in-milano/) | Scuderia Segfault |
-| 2021 | [9th RoboRacer Autonomous Grand Prix, IROS, Prague](https://www.tuwien.at/inf/scuderia-segfault/news-detail/win-roboracer-2021-prague/) | Scuderia Segfault |
-| 2020 | [Virtual Autonomous Racing Berlin Grand Prix, IFAC](https://www.tuwien.at/inf/scuderia-segfault/racing/) | TU Wien's TU Fast TU Furious team |
+| Year | Place | Grand Prix | Team |
+| --- | --- | --- | --- |
+| 2024 | **1st** | [22nd RoboRacer Autonomous Grand Prix, CDC, Milan](https://www.tuwien.at/inf/scuderia-segfault/news-detail/victory-at-roboracer-autonomous-grand-prix-in-milano/) | Scuderia Segfault |
+| 2024 | **2nd** | [21st RoboRacer Autonomous Grand Prix, IROS, Abu Dhabi](https://www.tuwien.at/inf/scuderia-segfault/news-detail/2nd-place-at-roboracer-autonomous-grand-prix-in-abu-dhabi/) | Scuderia Segfault |
+| 2023 | **2nd** | [11th RoboRacer Autonomous Grand Prix, ICRA, London](https://www.tuwien.at/inf/scuderia-segfault/news-detail/silver-at-11th-roboracer-autonomous-grand-prix/) | Scuderia Segfault |
+| 2022 | **3rd** | [10th RoboRacer Autonomous Grand Prix, ICRA, Philadelphia](https://www.tuwien.at/inf/scuderia-segfault/racing/) | Scuderia Segfault |
+| 2021 | **1st** | [9th RoboRacer Autonomous Grand Prix, IROS, Prague](https://www.tuwien.at/inf/scuderia-segfault/news-detail/win-roboracer-2021-prague/) | Scuderia Segfault |
+| 2020 | **1st** | [Virtual Autonomous Racing Berlin Grand Prix, IFAC](https://www.tuwien.at/inf/scuderia-segfault/racing/) | TU Wien's TU Fast TU Furious team |
 
 ## Sponsor the team
 
