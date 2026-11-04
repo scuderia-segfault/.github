@@ -17,6 +17,7 @@
   <a href="https://at.linkedin.com/company/scuderia-segfault">LinkedIn</a> ·
   <a href="https://www.tuwien.at/inf/scuderia-segfault/">TU Wien</a> ·
   <a href="https://www.instagram.com/scuderiasegfault/">Instagram</a> ·
+  <a href="https://www.youtube.com/@scuderiasegfault">YouTube (Scuderia Segfault)</a> ·
   <a href="https://www.youtube.com/@cps-tuwien9092">YouTube (CPS TU Wien)</a>
 </p>
 
